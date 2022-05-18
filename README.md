@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on two projects
+  - Advanced Light Source Accelerator Controls
+  - Gamma-Ray Energy Tracking Array (GRETA) Pipeline/Slow Controls
+
 <!--
 **tynanford/tynanford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
