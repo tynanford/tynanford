@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on two projects
-  - :electron: Advanced Light Source Accelerator Controls
-  - :atom: Gamma-Ray Energy Tracking Array (GRETA) Pipeline/Slow Controls
+  - :electron: Advanced Light Source (ALS) -  Accelerator Controls
+  - :atom: Gamma-Ray Energy Tracking Array (GRETA) - Pipeline/Slow Controls
 
 <!--
 **tynanford/tynanford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
